@@ -1,0 +1,4 @@
+0:bike
+1:car
+2:pedestrian
+3:unknown
