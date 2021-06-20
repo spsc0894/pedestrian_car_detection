@@ -25,7 +25,7 @@ git clone https://github.com/spsc0894/pedestrian_car_detection
 
 ## Pre-requisites
 
-Docker
+<a href=https://docs.docker.com/engine/install/ubuntu/>Docker CE`</a>
 
 ## Run the application
 
